@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Núñez
+    given-names: Yefry
+    orcid: ""
+    affiliation: "AI Safety Dominicana (AISDOM)"
+title: "Biosecurity LLM Evaluation — LAC: Dual-use risk evaluation of open-weight models in Latin America"
+version: 0.1.0
+date-released: 2026-05-10
+url: "https://github.com/yefry08/biosecurity-llm-evaluation-lac"
+license: MIT
+keywords:
+  - AI safety
+  - biosecurity
+  - large language models
+  - Latin America
+  - dual-use
+  - LatamGPT
+  - open-weight models
+  - responsible AI

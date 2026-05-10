@@ -1,0 +1,32 @@
+# Environment
+.env
+*.env
+
+# Data — raw outputs never committed
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (large files)
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Results (committed selectively)
+results/figures/*.png
+results/tables/*.csv
